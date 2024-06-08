@@ -18,7 +18,7 @@ Software Engineering student in University of Granada.
 
 | MySql | Mongodb |
 |:------:|:-------:|
-| ![Mysql Badge](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Mongodb Badge](https://img.shields.io/badge/mongodb-%23D00000.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![Mysql Badge](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=orange) | ![Mongodb Badge](https://img.shields.io/badge/mongodb-%23D00000.svg?style=for-the-badge&logo=mongodb&logoColor=green) |
 
 
 

@@ -1,6 +1,6 @@
 # 🌅 About Me
-22, full-stack engineer. <br> 
-Software Engineering student in University of Granada.
+22, full-stack developer. <br> 
+Software Engineering student at University of Granada.
 
 # 💻 Tech Knowledge
 ## Programming Languages

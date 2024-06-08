@@ -31,4 +31,4 @@ Software Engineering student in University of Granada.
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/DmCerezo/DmCerezo/edit/main/README.md/blob/main/backgound.jpg?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/DmCerezo/DmCerezo/blob/main/background.jpg?raw=true');]{x0000}$}

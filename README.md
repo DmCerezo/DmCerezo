@@ -1,5 +1,5 @@
-# 🌅 About Me
-23 | full-stack developer <br> 
+# 🧐 About Me
+23, full-stack developer. <br> 
 Software Engineering student at University of Granada.
 
 # 💻 Tech Knowledge

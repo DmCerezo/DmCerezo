@@ -11,7 +11,7 @@ Software Engineering student in University of Granada.
 ## Libraries & Frameworks
 
 | Flask | Boostrap |
-|:------:|:-----:|:-----:|:------:|:-------:|:----------:|:----:|
+|:------:|:-------:|
 | ![Flask Badge](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=flask&logoColor=white) | ![Boostrap Badge](https://img.shields.io/badge/boostrap-%23D00000.svg?style=for-the-badge&logo=boostrap&logoColor=white) |
 
 

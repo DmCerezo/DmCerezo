@@ -6,7 +6,7 @@ Software Engineering student in University of Granada.
 ## Programming Languages
 | C++ | Java | Ruby | Python | JavaScript | PHP |
 |:---:|:----:|:----:|:------:|:----------:|:---:| 
-| ![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![Ruby Badge](https://img.shields.io/badge/ruby-%2300599C.svg?style=for-the-badge&logo=ruby&logoColor=red) | ![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|
+| ![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![Ruby Badge](https://img.shields.io/badge/ruby-%f0c246.svg?style=for-the-badge&logo=ruby&logoColor=red) | ![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|
 
 ## Libraries & Frameworks
 
@@ -18,7 +18,7 @@ Software Engineering student in University of Granada.
 
 | MySql | Mongodb |
 |:------:|:-------:|
-| ![Mysql Badge](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=orange) | ![Mongodb Badge](https://img.shields.io/badge/mongodb-%23D00000.svg?style=for-the-badge&logo=mongodb&logoColor=green) |
+| ![Mysql Badge](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=orange) | ![Mongodb Badge](https://img.shields.io/badge/mongodb-%052541.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 
 
